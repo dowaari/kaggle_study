@@ -1,6 +1,8 @@
 # Kaggle 가지고 놀기
 
 ## 목표: 천천히 꾸준히, kaggle master
+## 참여한 컴피티션의 코드, 연구자료, 간단한 생각 정리
+```캐글주소: https://www.kaggle.com/dowaari```
 
 - [아파트 가격 예측](1_apartment_price_dacon/)
     - comment: 
