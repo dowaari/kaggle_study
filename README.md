@@ -1,9 +1,12 @@
 # Kaggle 가지고 놀기
 
-## 목표: slow and steady, kaggle master
+## 목표: 천천히 꾸준히, kaggle master
 
 - [아파트 가격 예측](1_apartment_price_dacon/)
-    - comment: 첫번째 데이터 분석 도전, DACON/직방에서 주최, 부동산가격 예측은 계속해서 연구해봐할 주제임.
+    - comment: 
+        - 첫번째 데이터 분석 도전, DACON/직방에서 주최, 부동산가격 예측으로 돈벌어볼까
+        - 공공데이터 포탈에서 실거래가 데이터 가져와서 테스트셋 점수측정
+        - 추가로 해볼부분: 시계열 데이터 처리, 불균형 데이터셋 처리 
     - url: https://dacon.io/cpt3
     - ref: 
 - [타이타닉 생존자 예측](2_titanic/)
@@ -23,6 +26,6 @@
     - url: https://www.kaggle.com/c/2019-3rd-ml-month-with-kakr
     - ref: 케라스 창시자에게 배우는 딥러닝, 5장
 - [Generative Dog Images](6_gan_dog_image/)
-    - comment: GAN을 이용한 dog image생성, 진행중
+    - comment: GAN을 이용한 dog image생성, 딥러닝 art의 세계
     - url: https://www.kaggle.com/c/generative-dog-images
     - ref: 케라스 창시자에게 배우는 딥러닝, 8장
