@@ -6,7 +6,7 @@
     - comment: 
         - 첫번째 데이터 분석 도전, DACON/직방에서 주최, 부동산가격 예측으로 돈벌어볼까
         - 공공데이터 포탈에서 실거래가 데이터 가져와서 테스트셋 점수측정
-        - ing: 시계열 데이터 처리, 불균형 데이터셋 처리 
+        - 추가미션: 시계열 데이터 처리, 불균형 데이터셋 처리에 대한 고민 
     - url: https://dacon.io/cpt3
     - ref: 
 - [타이타닉 생존자 예측](2_titanic/)
@@ -16,7 +16,7 @@
 - [Santander Product Recommendation ](3_santander/)
     - comment: 
         - 산탄데르은행 상품추천, 데이터 처리시 메모리절약방법에 대해 고민
-        - ing: pandas로 csv데이터읽어올때 chunk로 또는 DB에서 처리
+        - 추가미션: pandas로 csv데이터읽어올때 chunk로 또는 DB에서 처리해보기
     - url: https://www.kaggle.com/c/santander-product-recommendation
     - ref: (Kaggle 우승작으로 배우는) 머신러닝 탐구생활, 2장 
 - [taxi_trip_duration](4_taxi_trip_duration/)
@@ -26,7 +26,7 @@
 - [자동차 이미지를 이용한 차종 분류](5_cnn_car_image/)
     - comment: 
         - CNN모델 공부, pretrained model 및 image augmentation 활용
-        - ing: 차량 view각도(전면,후면,옆면)에 따른 별도 모델 학습, 클러스터링  
+        - 추가미션: 차량 view각도(전면,후면,옆면)에 따른 별도 모델 학습, 클러스터링해보기  
     - url: https://www.kaggle.com/c/2019-3rd-ml-month-with-kakr
     - ref: 케라스 창시자에게 배우는 딥러닝, 5장
 - [Generative Dog Images](6_gan_dog_image/)
