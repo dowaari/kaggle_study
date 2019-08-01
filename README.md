@@ -32,6 +32,10 @@
     - url: https://www.kaggle.com/c/2019-3rd-ml-month-with-kakr
     - ref: 케라스 창시자에게 배우는 딥러닝, 5장
 - [Generative Dog Images](6_gan_dog_image/)
-    - comment: GAN을 이용한 dog image생성, 딥러닝 art의 세계, 현재 진행중
+    - comment: 
+        - GAN을 이용한 dog image생성, 딥러닝 art의 세계, 현재 진행중
+        - GAN학습 tip & trick 실험적,경험적 https://github.com/soumith/ganhacks
+        - GAN모델을 적용한 주가예측논문도 있음.
+        - Batch Normalization, Adam Optimezer의 Weight Normalization ??
     - url: https://www.kaggle.com/c/generative-dog-images
     - ref: 케라스 창시자에게 배우는 딥러닝, 8장
