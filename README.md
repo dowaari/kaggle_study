@@ -44,7 +44,7 @@
     
 - [타이타닉 새로시작하기](7_titanic_restart/)
     - comment: 
-        - keras template, pytorch template
+        - keras template검색해보기, 머신러닝 템플릿만들기 (https://github.com/aisolab/strnlp)
         - 쥬피터에서 shift+tap 기능
         - 
     - url: https://www.kaggle.com/c/titanic
