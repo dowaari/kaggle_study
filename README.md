@@ -41,3 +41,12 @@
             - https://github.com/soumith/ganhacks            
     - url: https://www.kaggle.com/c/generative-dog-images
     - ref: 케라스 창시자에게 배우는 딥러닝, 8장
+    
+- [타이타닉 새로시작하기](7_titanic_restart/)
+    - comment: 
+        - keras template, pytorch template
+        - 쥬피터에서 shift+tap 기능
+        - 
+    - url: https://www.kaggle.com/c/titanic
+    - ref: https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling 
+ 
