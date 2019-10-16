@@ -42,11 +42,12 @@
     - url: https://www.kaggle.com/c/generative-dog-images
     - ref: 케라스 창시자에게 배우는 딥러닝, 8장
     
-- [타이타닉 새로시작하기](7_titanic_restart/)
+- [타이타닉 복습](2_titanic/)
     - comment: 
         - keras template검색해보기, 머신러닝 템플릿만들기 (https://github.com/aisolab/strnlp)
         - 쥬피터에서 shift+tap 기능
-        - 
+        - feature engineering 검색
     - url: https://www.kaggle.com/c/titanic
-    - ref: https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling 
+    - ref: https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling
+    = ref: https://kaggle.com/karell/kakr-1st-titanicgender-model-with-blending
  
