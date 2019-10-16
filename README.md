@@ -49,5 +49,5 @@
         - feature engineering 검색
     - url: https://www.kaggle.com/c/titanic
     - ref: https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling
-    = ref: https://kaggle.com/karell/kakr-1st-titanicgender-model-with-blending
+    - ref: https://kaggle.com/karell/kakr-1st-titanicgender-model-with-blending
  
