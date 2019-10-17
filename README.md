@@ -46,7 +46,11 @@
     - comment: 
         - keras template검색해보기, 머신러닝 템플릿만들기 (https://github.com/aisolab/strnlp)
         - 쥬피터에서 shift+tap 기능
-        - feature engineering 검색
+        - auto machine learning (자동화기능) 알아보기
+            - 신경망구조 : AutoKeras, NNI, Adanet
+            - 피쳐엔지니어링 : TPOT, Featuretools
+            - 하이퍼파라메타 튜닝 : Keras Tuner
+       
     - url: https://www.kaggle.com/c/titanic
     - ref: https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling
     - ref: https://kaggle.com/karell/kakr-1st-titanicgender-model-with-blending
